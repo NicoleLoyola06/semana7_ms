@@ -1,0 +1,4 @@
+Pandas
+Numpy
+scitik-learm
+matplotlit
